@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: my-step
-        run: echo "Hello world!"
+        run: echo "Hello world!-711023243002"
       - name: workshop FN
         run: echo "Introduction to DEVOPS"
       - name: workshop AF
