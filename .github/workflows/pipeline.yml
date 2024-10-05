@@ -1,0 +1,16 @@
+name: hello-world
+on: push
+jobs:
+  my-jobs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: my-step
+        run: echo "Hello world!"
+      - name: workshop FN
+        run: echo "Introduction to DEVOPS"
+      - name: workshop AF
+        run: echo "handson training"
+      - name: My work
+        run: echo "develop the DEVOPS program"
+      - name: Resource person name 
+        run: echo "Mr.N.C.Santhose"
